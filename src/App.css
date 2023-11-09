@@ -1,0 +1,14 @@
+body {
+  background: linear-gradient(
+    to right,
+
+    rgb(108, 104, 104),
+    whitesmoke,
+    white,
+    whitesmoke,
+    rgb(108, 104, 104)
+  );
+}
+.smaller {
+  font-size: 0.6em;
+}
